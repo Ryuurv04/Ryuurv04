@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Ranses Vergara</h1>
 <h3 align="center">Soy un Frontend con ganas de aprender nuevas tecnologias</h3>
 
-- 📫 How to reach me **ranseslk@gmail.com**
+- 📫 How to reach me **ransesvergara04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
